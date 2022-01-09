@@ -1,0 +1,3 @@
+# ignore whole IntelliJ IDEA project configuration…
+/*.iml
+/.idea/*
